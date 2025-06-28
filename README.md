@@ -2,7 +2,7 @@
 A simple and intuitive GUI-based temperature converter built with Python. This allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin.
 
 
-⭐ Features :
+# ⭐ Features :
 
 
 ▪️ Convert temperatures between Celsius, Fahrenheit, and Kelvin.
@@ -14,7 +14,7 @@ A simple and intuitive GUI-based temperature converter built with Python. This a
 ▪️ Instant conversion to other two temperature units upon selection.
 
 
-⚙️ How it Works :
+# ⚙️ How it Works :
 
 
 ➜ Enter a temperature value in the input field.
